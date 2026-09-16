@@ -34,13 +34,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'Mighty TV was a TV/movie recommendation app acquired by Spotify in
-  2017; the product is defunct. As of 2026-07-20 the domain mighty.tv (and api.mighty.tv)
-  serves an abovedomains.com "for sale" parking page. No API surface exists to enrich.'
+x-status-note: Mighty TV was a TV/movie recommendation app acquired by Spotify in 2017; the product is
+  defunct. As of 2026-07-20 the domain mighty.tv (and api.mighty.tv) serves an abovedomains.com "for sale"
+  parking page. No API surface exists to enrich.
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
